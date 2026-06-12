@@ -20,7 +20,7 @@ This project focuses on analyzing Netflix's content library to uncover valuable 
 * NumPy
 * Matplotlib
 * Seaborn
-* Jupyter Notebook
+
 
 #Key Findings
 
